@@ -32,6 +32,6 @@ The model achieved high precision, recall scores (0.95 to 0.99), and F1-scores (
 
 Accurate and efficient classification of medical images holds promise for improving disease diagnosis and treatment outcomes.
 
-Feel free to explore the code and contribute to this research project. If you have suggestions or improvements, please open an issue or submit a pull request.
+Feel free to refer this [Research Paper](https://ieeexplore.ieee.org/document/10134132). If you have suggestions or improvements, please open an issue or submit a pull request.
 
 Happy exploring and coding! 🚀
